@@ -4,5 +4,5 @@ tenant: 8ceee26d-f3f2-42a5-8491-a4a7f2fe01f2
 subscription: d78dbd33-fcc4-434e-a881-2b6f328241d3
 devcenter: aw-cace-devcenter-plateng
 project: dotnet-podcasts
-catalog: Environments
+catalog: dotnet-podcasts
 definition: Podcast
